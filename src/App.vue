@@ -23,6 +23,7 @@ useHead({
 <template>
   <div id="bar" />
   <router-view />
+  <Toast />
 </template>
 
 <style lang='scss'>
